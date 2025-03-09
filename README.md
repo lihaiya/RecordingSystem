@@ -25,9 +25,9 @@ http://118.25.192.13:80
 
 # FreeRecord：录音系统的截图
 ![image](https://github.com/user-attachments/assets/e4d56887-99ea-414d-acac-28e8cae03ad2)
+![image](https://github.com/user-attachments/assets/4dcdc5e7-183e-4e28-9f79-921ec64de40d)
 ![image](https://github.com/user-attachments/assets/391c888c-980d-4c16-a836-a082da70986e)
 ![image](https://github.com/user-attachments/assets/8f20d27b-53a8-4b9a-808e-f142824ebc86)
-![image](https://github.com/user-attachments/assets/4dcdc5e7-183e-4e28-9f79-921ec64de40d)
 ![image](https://github.com/user-attachments/assets/380004a5-9fdd-4988-ab29-845d80f98f84)
 ![image](https://github.com/user-attachments/assets/033fcd02-8f0f-4683-a0f9-867c5482ee68)
 
