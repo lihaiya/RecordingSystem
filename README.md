@@ -95,6 +95,8 @@ http://118.25.192.13:80
 
 ![image](https://github.com/user-attachments/assets/604a9a46-edc8-4a1f-9f94-a5021f178101)
 ![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
+![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图01](https://github.com/user-attachments/assets/16a8fd4c-1a3c-4188-a78d-d9e165cf20e1)
+![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图02](https://github.com/user-attachments/assets/8d2af247-be0d-427d-99a2-04d0f51fe8eb)
 ![image](https://github.com/user-attachments/assets/8bfca84f-996f-4cb3-ae35-88918e99f8f7)
 ![image](https://github.com/user-attachments/assets/e7fcb31f-530b-4b96-a6e3-e90fb9f5db60)
 ![image](https://github.com/user-attachments/assets/34ec0973-a012-47ae-b924-3d25a9c65c58)
