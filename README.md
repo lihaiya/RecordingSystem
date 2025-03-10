@@ -1,5 +1,5 @@
 # Recording System：录音系统
-Recording system, SIP recording, phone recording, call recording, call center recording, mobile phone recording, corporate phone recording, service notification recording, smart recording,录音系统，SIP录音，电话录音，通话录音，呼叫中心录音，手机录音，企业电话录音，服务通知录音，智能录音，Call Center, Contact Center,AI,TTS,ASR,RAG,大模型，人工智能，联络中心录音,Robot,large model robot!!!!!!
+Recording system, SIP recording, phone recording, call recording, call center recording, mobile phone recording, corporate phone recording, service notification recording, smart recording,录音系统，SIP录音，电话录音，通话录音，呼叫中心录音，手机录音，企业电话录音，服务通知录音，智能录音，Call Center, Contact Center,AI,TTS,ASR,RAG,大模型，人工智能，联络中心录音,Robot,large model robot!!
 
 ## 😄完整性:前端、后端、数据库，齐全！功能全开、不设限！不分什么社区版、商业版！部分功能还在迭代ing！
 ## 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
@@ -77,7 +77,9 @@ http://118.25.192.13:80
 
 我们将持续投入研发，不断提升 FreeRecord 的功能和性能，为企业提供更强大、更易用的开源录音解决方案。我们相信，FreeRecord 将成为企业通信领域的重要工具，为构建更加安全、高效、合规的企业通信环境贡献力量。
 
-# 附：团队的开源呼叫中心系统FreeIPCC的愿景与基础功能阐述
+# 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
+
+# 附：团队的开源呼叫中心系统FreeAICC（AI Call Center）的愿景与基础功能阐述
 愿景：
 我们的愿景是打造一个开放、灵活且强大的开源呼叫中心解决方案，赋能全球的企业和组织，无论规模大小，都能轻松构建并运营自己的客户服务体系。我们相信，通过共享源代码、促进技术创新与协作，能够打破传统呼叫中心的壁垒，让每一位开发者、企业主乃至终端用户都能从中受益。我们的目标不仅仅是提供一个工具，而是构建一个生态系统，让不同背景、不同需求的用户能够共同探索、定制并优化呼叫中心的功能与体验，最终推动整个客户服务行业的进步与发展！
 
@@ -93,29 +95,27 @@ http://118.25.192.13:80
 9.	高度可配置：提供直观的配置界面，让用户无需编程即可根据自身需求调整系统参数、优化工作流程，实现快速定制与部署。
 10.	社区支持与生态共建：建立一个活跃的开源社区，鼓励用户分享经验、提出需求、贡献代码，共同推动项目的持续发展与完善。我们相信，通过社区的力量，我们的开源呼叫中心将不断进化，成为客户服务领域的佼佼者！
 
-![image](https://github.com/user-attachments/assets/604a9a46-edc8-4a1f-9f94-a5021f178101)
-![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
-![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图01](https://github.com/user-attachments/assets/16a8fd4c-1a3c-4188-a78d-d9e165cf20e1)
-![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图02](https://github.com/user-attachments/assets/8d2af247-be0d-427d-99a2-04d0f51fe8eb)
-![image](https://github.com/user-attachments/assets/8bfca84f-996f-4cb3-ae35-88918e99f8f7)
-![image](https://github.com/user-attachments/assets/e7fcb31f-530b-4b96-a6e3-e90fb9f5db60)
-![image](https://github.com/user-attachments/assets/34ec0973-a012-47ae-b924-3d25a9c65c58)
-![image](https://github.com/user-attachments/assets/dd5ef068-e4cc-48ba-aaa6-074f1eade244)
-![image](https://github.com/user-attachments/assets/7889efb4-85e9-45b2-84a4-ea837dc6b7fd)
-![image](https://github.com/user-attachments/assets/52064c20-f502-423a-9546-b865aa2e11ff)
-![image](https://github.com/user-attachments/assets/b68d242e-ca19-4806-b84c-11239ee2d8f6)
-![image](https://github.com/user-attachments/assets/96c81618-9d85-4d32-9f9a-6719426b4640)
-![image](https://github.com/user-attachments/assets/38877999-8119-4bb9-b280-4f0b26a06414)
-![image](https://github.com/user-attachments/assets/5c3f7012-629a-4f4f-a5cf-f4ce72b9a095)
-![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
-
-# 关于源码与付费： 付费后，我们将会提供对应模块源码及一次源码培训（我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代）
-付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。可对公签合同，更有保障！我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
+![01-freeipcc01](https://github.com/user-attachments/assets/f64e161c-68a1-4e4d-b12e-e910dcab26f8)
+![02-freeipcc14](https://github.com/user-attachments/assets/47764469-de7b-46ba-8626-654a90361b24)
+![03-freeipcc04](https://github.com/user-attachments/assets/43bc3b1b-9dc8-4bfc-8d0a-61e3cea7ac2e)
+![04-freeipcc08](https://github.com/user-attachments/assets/18359c61-ee39-4e51-94e5-629855095ea3)
+![05-freeipcc09](https://github.com/user-attachments/assets/ddf63606-ddb1-4857-898d-9c95c0bbed98)
+![06-freeipcc02](https://github.com/user-attachments/assets/45992ac2-ba33-4ffa-8967-7f8bb052ed26)
+![07-freeipcc15](https://github.com/user-attachments/assets/e6833b18-ee95-40be-9e60-5d1ab0977721)
+![08-freeipcc](https://github.com/user-attachments/assets/aa5d6150-2a3e-4db6-a2b6-69d5daac0714)
+![09-freeipcc03-FreeAICC](https://github.com/user-attachments/assets/a4cfde78-1c94-4b41-80f6-b0f4e45a0377)
+![10-freeipcc05](https://github.com/user-attachments/assets/547ac5f2-37e9-4469-8407-05023bac2a54)
+![11-freeipcc06](https://github.com/user-attachments/assets/7eaafde5-5e98-40b2-a2d7-ea4d5b6ab271)
+![12-freeipcc07](https://github.com/user-attachments/assets/109edd2a-ff4b-408f-914e-41a9da42f169)
+![13-freeipcc10](https://github.com/user-attachments/assets/a3d1ae39-dea7-43be-9931-bd49578bdd71)
+![14-freeipcc11](https://github.com/user-attachments/assets/8bd2e7b4-727d-494a-a04a-419d19e7682f)
+![15-freeipcc12](https://github.com/user-attachments/assets/24ebd0a3-bc4c-43fc-a108-a63dd8b53ea5)
+![16-freeipcc13](https://github.com/user-attachments/assets/160c595a-0cf0-465a-99bf-a8e2afea9e6d)
 
 ## 🤔工单系统功能列表
 
-![image](https://github.com/user-attachments/assets/b3579741-07f2-4f2d-936e-b97bfca38b17)
-![image](https://github.com/user-attachments/assets/c4f7ccb6-02b9-4345-aa53-a1898b2db04c)
+![工单系统1](https://github.com/user-attachments/assets/95cbdad5-aea2-47f8-9e2a-312e9358103e)
+![工单系统2](https://github.com/user-attachments/assets/6f1774e8-66f1-42f5-8df6-14796e8fda80)
 
 # 😄再次表达一下价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
 
