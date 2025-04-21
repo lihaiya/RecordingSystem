@@ -12,13 +12,16 @@
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-## demo暂无，附团队AI Call Center的2025.04.20 Demo链接，enjoy😄：
+## demo暂无，附团队AI Call Center的2025.04.21 Demo链接，enjoy😄：
 
 1，话务/在线客服：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
 
 2，工单：(demo/123456)
 http://118.25.192.13:80
+
+注意：如果页面打不开，是因为demo页面正在频受DDo5攻击，目前我们正报警处理，还请用户谅解。可直接加我们联络方式进行沟通。
+![image](https://github.com/user-attachments/assets/8a4b6b6f-e47e-47a1-9400-a6e0585f4559)
 
 ## 开发语言：Java,Vue,Python,SpringBoot！
 业务模块Java为主；智能模块Python为主。
