@@ -6,16 +6,23 @@
 ## 😄功能完整性：话务系统，工单系统，IM在线客服系统，录音系统，功能齐全、不设限！
 ## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！
 ## 😄长期目标：疯狂地为社会创造价值，引领呼叫中心行业发展，将大模型呼叫中心能力，赋能1万家集成商，服务120万个客户！
-## 😄大客户案例：电信、华数（广电）、联通，四大运营商已合作三家（移动400业务覆盖有限）
+## 😄大客户案例：电信、华数（广电）、联通，四大运营商已合作三家（移动400业务覆盖有限）;三甲医院、中国顶级高校、政府公共部门，都有案例！
+
 <img src="https://github.com/user-attachments/assets/68baf9a8-d8d7-4ae1-bbb2-06eb5c874415" width="300" height="100">
 <img src="https://github.com/user-attachments/assets/6e2f8cc1-131b-477c-bcb1-bbb8f39990e5" width="200" height="100">
 <img src="https://github.com/user-attachments/assets/8ffb1298-a1de-45e4-9384-b9682715f197" width="300" height="100">
 
+<img src="https://github.com/user-attachments/assets/804f4d98-b39d-42ba-acd0-3911243c264e" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/d13ed06c-7ae3-4bea-b1d4-426e7e869af8" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/6f67e4ca-bb24-4431-9bf8-60ac53b1f956" width="300" height="300">
+
+## 😄思科呼叫中心、Avaya呼叫中心，国产平替；也可以对接思科与avaya，利旧系统；国产呼叫中心源头！
 致力于成为：1，大模型呼叫中心系统、大模型呼入、大模型呼出、电话机器人、办公电话、客服机器人、坐席辅助、智能呼叫中心系统、大模型智能客服系统；2，开源呼叫中心系统、开源客服系统；3，视频呼叫中心系统、视频客服系统；4，全渠道客服系统、在线客服系统等客户服务、企业获客方面的全球领导者！
 
 ## 📫 How to reach us 📫:
 - 官方WeChat01:freeipcc
 - 官方WeChat02:freeaicc
+- 官方WeChat03:easyaicc
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com
 
