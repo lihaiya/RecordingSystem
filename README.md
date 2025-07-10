@@ -1,5 +1,5 @@
 # FreeRecord：录音系统
-录音系统，SIP录音，电话录音，通话录音，呼叫中心录音，手机录音，企业电话录音，服务通知录音，智能录音，Call Center, Contact Center,AI,TTS,ASR,RAG,大模型，人工智能，联络中心录音,Robot,large model robot!!!!!!!!
+录音系统，SIP录音，电话录音，通话录音，呼叫中心录音，手机录音，企业电话录音，服务通知录音，智能录音，Call Center, Contact Center,AI,TTS,ASR,RAG,大模型，人工智能，联络中心录音,Robot,large model robot!
 
 # 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 ## 😄为什么使用大语言模型呼叫中心？真正解决“ASR+NLP+TTS”时代的痛点，让AI真正可用！
@@ -29,19 +29,13 @@
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com
 
-## demo暂无，附团队AI Call Center的2025.07.07 Demo链接，enjoy😄：
-
-1，话务/在线客服：(demo123/demo123@Abc)
-http://124.220.48.38:8822/cc
-
-2，工单：(demo/123456)
-http://124.220.48.38:80
+## demo暂无，附团队AI Call Center的2025.07.10 Demo链接，enjoy😄：
 
 注意：如果页面打不开，是因为demo页面正在频受DDo5攻击，目前我们正报警处理，还请用户谅解。可直接加我们联络方式进行沟通。
 ![image](https://github.com/user-attachments/assets/8a4b6b6f-e47e-47a1-9400-a6e0585f4559)
 
-## 开发语言：Java,Vue,Python,SpringBoot！
-业务模块Java为主；智能模块Python为主。
+## 开发语言：Java,Vue,SpringBoot！
+业务模块Java为主。
 
 # FreeRecord：录音系统的截图
 ![image](https://github.com/user-attachments/assets/e4d56887-99ea-414d-acac-28e8cae03ad2)
@@ -114,10 +108,6 @@ http://124.220.48.38:80
 10.	社区支持与生态共建：建立一个活跃的开源社区，鼓励用户分享经验、提出需求、贡献代码，共同推动项目的持续发展与完善。我们相信，通过社区的力量，我们的开源呼叫中心将不断进化，成为客户服务领域的佼佼者！
 
 ![image](https://github.com/user-attachments/assets/604a9a46-edc8-4a1f-9f94-a5021f178101)
-![freeipcc14](https://github.com/user-attachments/assets/c1e5a412-6a38-48bc-bbad-2a129af562e7)
-![image](https://github.com/user-attachments/assets/e7fcb31f-530b-4b96-a6e3-e90fb9f5db60)
-![image](https://github.com/user-attachments/assets/52064c20-f502-423a-9546-b865aa2e11ff)
-![image](https://github.com/user-attachments/assets/b68d242e-ca19-4806-b84c-11239ee2d8f6)
 ![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
 ![freeipcc15](https://github.com/user-attachments/assets/a9b20c37-2b29-4a92-b06a-af1fcc5c75ed)
 ![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图01](https://github.com/user-attachments/assets/0b53f8b5-72f3-4f1f-82d4-cf50f60ad875)
@@ -136,18 +126,6 @@ http://124.220.48.38:80
 ![image](https://github.com/user-attachments/assets/c4f7ccb6-02b9-4345-aa53-a1898b2db04c)
 
 ## 😄每一个用户，都有专属群支持：10人左右，响应更及时
-
-下图是随机抽取的需求对接的群：
-
-![image](https://github.com/user-attachments/assets/c768011a-342f-4f38-a8c5-bb733cd38d47)
-![image](https://github.com/user-attachments/assets/6d64a30a-4dd7-4dd5-a7e5-f56706dd4932)
-![image](https://github.com/user-attachments/assets/e6bfee9e-0c4c-451d-87a5-1c056444ce30)
-![image](https://github.com/user-attachments/assets/be73edc1-999b-472f-b950-e1bf7266c7a0)
-![image](https://github.com/user-attachments/assets/3bd34af5-6a5c-447c-8f38-cd2b0520957a)
-![image](https://github.com/user-attachments/assets/71abf504-db94-4618-ab35-725f5de8c8f8)
-![image](https://github.com/user-attachments/assets/35958ea3-3dc4-45ef-9fe6-7a16cf66c39d)
-![image](https://github.com/user-attachments/assets/e28c4c61-9105-4461-ab68-988bcc14736c)
-
 # 😄再次表达一下价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
 
 <!--
